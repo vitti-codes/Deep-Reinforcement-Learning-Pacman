@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Learning-Pacman
+# Deep Reinforcement Learning using the Pacman game
 
 This project is divided into 3 tasks. 
 The first is the implementation of a simplified version of the Pacman environment, where a 7x7 grid contains 5 obstacles (or barriers), a ghost which moves randomly, and 10 pellets which are placed randomly at the start of each game.
